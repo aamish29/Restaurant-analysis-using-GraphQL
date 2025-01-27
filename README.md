@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-As part of my **Enterprise Database Management** course, I explored the opportunity of setting up a new restaurant in Chicago using the **Yelp GraphQL API**. The aim of this analysis was to identify potential trends, gaps, and opportunities in the restaurant market by analyzing data on restaurant reviews, locations, cuisines, and customer preferences.
+I explored the opportunity of setting up a new restaurant in Chicago using the **Yelp GraphQL API**. The aim of this analysis was to identify potential trends, gaps, and opportunities in the restaurant market by analyzing data on restaurant reviews, locations, cuisines, and customer preferences.
 
 The data collected from the Yelp GraphQL API provided insights into existing restaurant offerings, customer ratings, and the overall market landscape, which helped in identifying a viable restaurant concept for the city.
 
