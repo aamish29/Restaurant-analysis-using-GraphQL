@@ -43,16 +43,5 @@ This project reinforced the importance of contextualizing data within a business
 - **Customer Sentiment Analysis**: Analyzing customer reviews more deeply to identify pain points and unmet needs.
 - **Competitor Analysis**: Monitoring competitors to stay updated on market shifts and customer preferences.
 
-## How to Run the Project
-
-To run this project on your local machine, follow these steps:
-
-### Prerequisites
-
-- Python 3.x
-- Jupyter Notebook (optional)
-- Required libraries: `requests`, `graphqlclient`, `matplotlib`, `pandas`, etc.
-
-
 
 
