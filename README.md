@@ -1,7 +1,7 @@
 # Restaurant-analysis-using-GraphQL
 Restaurant market analysis
 
-# Yelp Dataset Analysis: Korean Cuisine in O'Fallon, IL
+## Yelp Dataset Analysis: Korean Cuisine in O'Fallon, IL
 
 ## Overview
 This project explores the presence and popularity of Korean cuisine in the city of O'Fallon, Illinois, using the Yelp dataset. The analysis covers various aspects of the market, including the number of Korean restaurants, restaurant reviews, customer ratings, and insights into the demand for late-night food. The project also examines specific restaurants, like *bb.q Chicken* in O'Fallon, to understand customer behavior, restaurant attributes, and the local food scene.
