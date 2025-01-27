@@ -1,6 +1,3 @@
-# Restaurant-analysis-using-GraphQL
-Restaurant market analysis
-
 # Exploring Opportunities for a New Restaurant Using Yelp GraphQL API
 
 ## Project Overview
